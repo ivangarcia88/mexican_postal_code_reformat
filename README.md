@@ -6,7 +6,6 @@ El archivo que se usa como origen se puede obtener en su sitio oficial:
 
 [https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx](https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx)
 
-Se requiere tener python 3.6 o superior, pero se recomienda emplear python 3.10.
 
 Para una mejor experiencia, se sugiere instalar Anaconda (https://www.anaconda.com/) y crear un entorno virtual.
 
